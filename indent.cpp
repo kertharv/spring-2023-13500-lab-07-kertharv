@@ -48,7 +48,7 @@ while(std::getline(badcodes, line))
     for(int i = 0; i < count; i++)
     {
         newstring += '\t';
-    }//end for loop
+    }
 
     newstring = newstring + line + '\n';
     count += countChar(line, '{');
