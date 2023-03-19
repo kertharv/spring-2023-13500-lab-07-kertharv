@@ -6,8 +6,7 @@
 
 * GitHub username: kertharv
 
-* Notes: There are no doctest tests in this lab. The stuff inside of bad-code.cpp will be printed in main.cpp (the only executable file). The stuff in bad-code.cpp have both forms of properly formatted and without 
-leading spaces. 
+* Notes: There are no doctest tests in this lab. The stuff inside of bad-code.cpp will be printed in main.cpp (the only executable file). The stuff in bad-code.cpp have both forms of properly formatted and without leading spaces. 
 
   
 * General instructions:
