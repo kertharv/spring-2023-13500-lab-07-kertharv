@@ -1,13 +1,14 @@
 * Spring 2023 - Lab 07
 
-* Last name:
+* Last name: Cataluna
 
-* First name:
+* First name: Kert Harvey
 
-* GitHub username:
+* GitHub username: kertharv
 
-* Notes:
-
+* Notes: There are no doctest tests in this lab. The stuff inside of bad-code.cpp will be printed in main.cpp 
+(the only executable file). The stuff in bad-code.cpp have both forms of properly formatted and without 
+leading spaces. 
 
   
 * General instructions:
